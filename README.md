@@ -1,6 +1,6 @@
 # Projeto_Curriculo
 
-O site será ultilizado para guardar curriculos dos alunos para que empresas o visitem a
+O site será ultilizado para guardar curriculos dos alunos, para que empresas o visitem a
 procura de candidatos as vagas, possibilitado também, aos alunos a verem a descrição das empresas 
 e quais são, para que possam se canditadar a vagas ou entrar em contado com as mesmas.
 
